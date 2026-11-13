@@ -1,0 +1,260 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+.navbar{
+display: flex;
+background-color: #FFC700;
+height: 80px;
+
+}
+.navbar img{
+
+height: 65px;
+margin-left: 100px;
+margin-top: 15px;
+}
+.navbar ul{
+text-decoration: none;
+display: flex;
+margin-left: 200px;
+}
+.navbar ul li{
+text-align: center;
+display: flex;
+align-items: center;
+padding: 22px;
+font-size: 16px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.navbar button{
+margin-left: 80px;
+padding: 10px 30px;
+color: white;
+background-color: black;
+height: 50px;
+border: none;
+border-radius: 18px;
+margin-top: 15px;
+}
+.main{
+
+background-image: url(./img/Sport\ Sphere\ 1.png);
+height: 90vh;
+width: 100%;
+}
+.next-page{
+padding-top: 220px;
+text-align: right;
+margin-right: 40px;
+height: 40px;
+}
+.dot{
+padding-top: 260px;
+text-align: center;
+height: 40px;
+
+}
+.About{
+display: flex;
+margin-top: 10px;
+
+}
+.content{
+padding-top: 100px;
+padding-left: 100px;
+
+
+}
+.content h2{
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.content p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 14px;
+color: gray;
+padding-top: 10px;
+}
+.content button{
+padding: 9px 20px;
+margin-top: 30px;
+background-color: #FFC700;
+border: none;
+border-radius: 18px;
+font-size: 18px;
+}
+.football{
+
+height: 400px;
+
+margin-left: 100px;
+
+}
+.football img{
+height: 350px;
+margin-top: 20px;
+margin-left: 100px;
+width: 450px;
+border-radius: 32px;
+box-shadow: 10px 10px #FFC700;
+}
+.balls{
+
+
+text-align: center;
+justify-content: center;
+
+
+}
+.balls img{
+
+text-align: center;
+justify-content: center;
+}
+.gallery{
+margin-top: 80px;
+
+}
+.gallery h2{
+    text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 35px;
+
+
+}
+.balls{
+margin-top: 50px;
+
+
+}
+.ball1{
+height: 240px;
+width: 128px;
+margin-bottom: 50px;
+
+}
+
+.ball2{
+
+margin-bottom: 30px;
+    height: 320px;
+    width: 240px;
+}
+.ball3{
+height: 400px;
+
+
+}
+.yellow-ball{
+text-align: center;
+justify-content: center;
+align-items:center ;
+padding-top: 30px;
+}
+.questions{
+
+text-align: center;
+
+
+}
+.lorem{
+text-align: center;
+justify-content: center;
+margin-left: 300px;
+margin-top: 80px;
+}
+.lorem p{
+background-color: #FFC700;
+height: 40px;
+width: 700px;
+padding-top: 15px;
+border-radius: 16px;
+
+}
+.lorem h4{
+
+height: 40px;
+width: 700px;
+padding-top: 15px;
+background-color: #EBEBEB;
+
+}
+.qusetion-type{
+
+text-align: center;
+justify-content: center;
+margin-left: 300px;
+margin-top: 12px;
+
+}
+.qusetion-type p{
+
+background-color: #FFC700;
+height: 40px;
+width: 700px;
+padding-top: 15px;
+border-radius: 16px;
+margin-top: 12px;
+}
+.footer{
+background-color: black;
+display: flex;
+
+}
+.lf {
+
+
+
+}
+.sport{
+height: 80px;
+padding-top: 50px;
+padding-left: 100px;
+}
+.lf p{
+color: #EBEBEB;
+padding-left: 100px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 15px;
+}
+.icons{
+
+padding-left: 100px;
+padding-top: 40px;
+padding-bottom: 30px;
+}
+.info{
+margin-left: 100px;
+margin-top: 60px;
+}
+.info h3{
+padding: 10px;
+color: #EBEBEB;
+
+}
+.info p{
+color: #EBEBEB;
+padding-top: 12px;
+padding-left: 15px;
+}
+.know-us{
+display: flex;
+
+
+}
+.end{
+
+background-color: #FFC700;
+height: 50px;
+}
+.end h3{
+text-align: center;
+padding-top: 20px;
+font-size: 14px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 800;
+}
